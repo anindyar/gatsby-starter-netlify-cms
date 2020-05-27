@@ -1,21 +1,17 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Al Arif Group
+image: /img/products-grid2.jpg
+heading: ....
+subheading: .....
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: Welcome to Al Arif
+  description: "We are an outstanding organization providing the highest quality
+    and service to its customers in the field of Interior Fitout, MEP
+    contracting, high-efficiency Air Conditioning, Odour Control, Ventilation,
+    Air Purification, Indoor Air Quality monitoring, and other specialized
+    services.   "
+description: ...
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -45,19 +41,35 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: AL ARIF DÉCOR LLC
+  description: >-
+    Al Arif Décor is a reputed Interior fit-out and soft furnishing company
+    based in Dubai, proudly serving the UAE community since the year 1995. Our
+    long track record of excellence should set your mind at ease while
+    considering placing an order with us. We are well known for our construction
+    quality, commitment, and on-time delivery.
+
+
+    Corporates, Five Star Hotels, Hospitals, Residential customers, U.S Consulate, Wafi City, Indian High School, American School of Dubai, Emaar Malls, Al Futtaim Group, and many more have trusted us for our genuine and exemplary Interior Fit-out services. 
+
+
+    Please contact us at info@alarif.org Or visit https://alarifdecor.com for more information. 
 main:
-  heading: Great coffee with no compromises
+  heading: AL ARIF AIR CONDITIONG SYSTEMS LLC
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Al Arif Air-Conditioning Systems was established in the year 2004 as a
+    service provider in the field of Air Conditioning in Dubai. Today the
+    company has grown to be a well-established MEP (Mechanical, Electrical &
+    Plumbing) contractor in the UAE. We offer specialized HVAC (Heating,
+    Ventilation and Air Conditioning) solutions in UAE with specialized products
+    for air purification, air sterilization, Indoor air quality monitoring and
+    related specialized systems.  
+
+
+    We are a total solution provider in the Engineering, Design, Supply, Installation and Commissioning of MEP systems and services.
+
+
+    Please contact us at info@alarif.org Or visit https://alarifac.com for more information.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
